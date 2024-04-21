@@ -3,8 +3,8 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://vkmki001.github.io/"
-defaultContentLanguage = "zh-cn"
+baseURL = "https://aspenbranch.xyz/blog2/"
+defaultContentLanguage = "en-us"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
@@ -15,7 +15,7 @@ summaryLength = 0
 buildDrafts = false
 buildFuture = false
 
-# googleAnalytics = "G-XXXXXXXXX"
+
 
 [imaging]
   anchor = 'Center'
